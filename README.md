@@ -6,7 +6,7 @@ This project was built to practice React fundamentals such as state management u
 
 ## Live Demo
 
-https://your-deployed-link.vercel.app
+https://devcolorchanger.netlify.app/
 
 ## Features
 

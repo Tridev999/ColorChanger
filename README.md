@@ -61,4 +61,4 @@ Tridev
 This project was created as part of my React learning journey.
 # ColorChanger
 It is a basic website build using React js . It changes it's background color after clicking on the buttons.
->>>>>>> 19fe3d0374dc4c8eb3684fd56885051e1079fb0d
+
